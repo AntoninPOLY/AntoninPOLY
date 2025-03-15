@@ -13,12 +13,6 @@ Here are some of the technologies and tools I work with:
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Git, Docker, Kubernetes, Nats, Fly.io
 
-## :mount_fuji: Goals
-
-Finish the exercism Elixir path, and learn more about Erlang.
-Learn more and experiment with Nats.io
-Code something every day !
-
 ## :orange_book: GitHub Stats
 
 
@@ -30,6 +24,12 @@ Code something every day !
 
 ![AntoninPOLY's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoninPOLY&layout=compact&langs_count=5&theme=dark)
 </div>
+
+## :mount_fuji: Goals
+
+Finish the exercism Elixir path, and learn more about Erlang.
+Learn more and experiment with Nats.io
+Code something every day !
 
 ## :globe_with_meridians: Other links
 
