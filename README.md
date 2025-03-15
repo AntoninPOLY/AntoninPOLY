@@ -1,10 +1,10 @@
-# :wave: Hi there, I'm AntoninPOLY!
+# :octocat: Hello there, I'm AntoninPOLY!
 
 Welcome to my GitHub profile!
 I am AntoninPOLY, a passionate developer with a diverse set of interests and skills.
 I love Elixir and Nats !
 
-## :wrench: Technologies & Tools
+## :nut_and_bolt: Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
@@ -13,13 +13,14 @@ Here are some of the technologies and tools I work with:
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Git, Docker, Kubernetes, Nats, Fly.io
 
-## :trophy: Goals
+## :mount_fuji: Goals
 
 Finish the exercism Elixir path, and learn more about Erlang.
 Learn more and experiment with Nats.io
 Code something every day !
 
-## :bar_chart: GitHub Stats
+## :orange_book: GitHub Stats
+
 
 <div style="display: flex;">
 <div style="margin-right: 1em;">
